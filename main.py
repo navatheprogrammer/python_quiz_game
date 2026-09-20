@@ -12,7 +12,11 @@ if awnser1.lower() == "python":
     print("bravo")
     score += 1
 
+awnser2 = input("what command starts git") #git init
 
+if awnser2.lower() == "git init":
+    print("bravo")
+    score += 1
 
     
 else:
