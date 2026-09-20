@@ -27,4 +27,8 @@ elif score >=2:
 
 else:
     print("keep practicing", name)
-    
+
+
+
+with open("result.txt", "a") as file:
+    file.write(f"{name} - {score}/{len(questoions)}\n")

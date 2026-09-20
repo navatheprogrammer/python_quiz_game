@@ -12,6 +12,6 @@ questoions = [
     {
         "question" : "what command shows git status",
         "awnser" : "git status"
-    }
+    },
 
 ]
