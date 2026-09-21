@@ -1,6 +1,11 @@
+# python ache
 __pycache__/
+.pyc
+
+# quiz result
 result.txt
-error.log
-debug.log
-app.log
+
+#log
+.log
+#privet envior ment
 .env
