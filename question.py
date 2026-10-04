@@ -13,5 +13,12 @@ questoions = [
         "question" : "what command shows git status",
         "awnser" : "git status"
     },
-
+    {
+        "question" : "what command shows git history",
+        "awnser" : "git log"
+    },
+    {
+        "question" : "what command shows commit in git hub",
+        "awnser" : "git push"
+    }
 ]
