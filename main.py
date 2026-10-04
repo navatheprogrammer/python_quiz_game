@@ -48,3 +48,5 @@ else:
 
 with open("result.txt", "a") as file:
     file.write(f"{name} - {score}/{len(questoions)}\n")
+
+print("bye eyekons")
