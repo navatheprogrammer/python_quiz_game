@@ -20,5 +20,9 @@ questoions = [
     {
         "question" : "what command shows commit in git hub",
         "awnser" : "git push"
+    },
+    {
+        "question" : "what command shows commit branch",
+        "awnser" : "git branch"
     }
 ]
